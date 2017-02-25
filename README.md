@@ -1,4 +1,8 @@
-# README
+# Ruby on Rails Tutorial
+
+## "Hello World"
+
+This is the first appliction for the Ruby on Rails tutorial by Michael Hart. Hello World.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
